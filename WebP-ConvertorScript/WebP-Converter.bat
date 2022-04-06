@@ -1,7 +1,7 @@
 :: Title: WebP-Converter
 :: Description: Encodes and decodes WebP images into PNGs and vice versa.
 :: Dependencies: cwebp and dwebp executables https://developers.google.com/speed/webp/docs/using
-:: Last Modified: 4/5/2022 (Tonia Sanzo) sanzo.tonia@gmail.com
+:: Last Modified: 4/6/2022 (Tonia Sanzo) sanzo.tonia@gmail.com
 :: -------------------------------------------------------------------------------------
 ::  No Copyright
 ::
