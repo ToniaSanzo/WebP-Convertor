@@ -3,14 +3,14 @@
 :: Dependencies: cwebp and dwebp executables https://developers.google.com/speed/webp/docs/using
 :: Last Modified: 4/5/2022 (Tonia Sanzo) sanzo.tonia@gmail.com
 :: -------------------------------------------------------------------------------------
-:: Liberty License
-:: Copyright 2022 Tonia Sanzo
+::  No Copyright
 ::
-:: You are at liberty to use this code however you like. Please be considerate of others
-:: and enjoy.
+::  The person who associated a work with this deed has dedicated the work to the public
+::  domain by waiving all of his or her rights to the work worldwide under copyright 
+::  law, including all related and neighboring rights, to the extent allowed by law.
 ::
-:: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
-:: IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+::  You can copy, modify, distribute and perform the work, even for commercial purposes,
+::  all without asking permission.
 :: -------------------------------------------------------------------------------------
 @echo off
 SET /p confirmation= Do you want to run WebP-Convertor [y/n]:
